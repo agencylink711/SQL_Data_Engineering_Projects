@@ -1,3 +1,7 @@
+/*
+short info
+*/
+    
 SELECT DISTINCT
     job_country
 FROM
